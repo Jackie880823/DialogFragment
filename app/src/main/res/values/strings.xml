@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="text_your_name">Your name</string>
+    <string name="text_show_dialog">Show Dialog</string>
+</resources>
